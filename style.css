@@ -148,7 +148,7 @@ section{
     font-size: 4rem;
     padding: 1rem;
     background: transparent;
-    color: hazel;
+    color: coffee;
     margin: 3rem 0.5rem ;
     transition: 0.3s ease;
     margin-top: 8px;
@@ -160,7 +160,7 @@ section{
 
 .social-icons a:hover{
     background: rgb(76 76 122);
-    color: black;
+    color: cocoa;
     transform: scale(1.2) translateY(-5px);
     box-shadow: 0 0 18px rgb(76 76 122);
     border-radius: 30%;
@@ -177,7 +177,7 @@ section{
     box-shadow: 0 0 25px rgb(76 76 122);
     border-radius: 3rem;
     font-size: 1.8rem;
-    color: #eee8e8;
+    color: chestnut;
     border: 2px solid transparent;
     font-weight: 600;
     transition: 0.3s ease-in-out;
