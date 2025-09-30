@@ -32,7 +32,7 @@ body{
     top: 0;
     left: 0;
     padding: 4rem 12%;
-    background: black;
+    background: dark brown;
     backdrop-filter: blur(10px) ;
     display: flex;
     align-items: center;
@@ -70,7 +70,7 @@ span{
 .navbar a{
     font-size: 1.8rem;
     margin-left: 4rem;
-    color: dark gray;
+    color: light brown;
     font-weight: 500;
     border-bottom: 3px solid transparent;
     transition: 0.3s ease;
@@ -115,7 +115,7 @@ section{
 .home-content h3{
     font-size: 34px;
     font-weight: 700;
-    color: rgb(70, 70, 97);
+    color:dark brown;
     margin-top: 10px;
     animation: slideRight 1s ease forwards;
     animation-delay: .1s;
@@ -124,7 +124,7 @@ section{
 .home-content h4{
     font-size: 42px;
     font-weight: 700;
-    color: white;
+    color: dark brown;
     margin-top: 6rem;
     animation: slideBottom 1s ease forwards;
     animation-delay: .1s;
